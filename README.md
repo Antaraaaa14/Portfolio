@@ -1,36 +1,71 @@
-# React Portfolio
+# Antara's Portfolio Website
 
-This is a personal React portfolio project built with Vite.
+This is my personal portfolio website created using React.js and Tailwind CSS.  
+I built this project to showcase my skills, projects, and learning journey as a first-year Computer Science Engineering student interested in frontend development and creative web design.
 
-## Contents
+The portfolio is designed as a single-page scrolling website with a modern UI, responsive layout, and smooth user experience.
 
-- A simple React app with components in the `src/components` folder.
+## Features
 
-## Install
+- Single page responsive portfolio
+- Modern and clean UI design
+- Skills section with progress bars
+- Project showcase section
+- Resume button integration
+- GitHub and LinkedIn links
+- Smooth scrolling navigation
+- Mobile responsive design
 
-1. Install dependencies:
+## Technologies Used
 
-```
-npm install
-```
+- React.js
+- Tailwind CSS
+- JavaScript
+- HTML
+- CSS
+- React Icons
+- Vite
 
-2. Run development server:
+## Projects Included
 
-```
-npm run dev
-```
+- Kanban Board
+- Auction Platform
+- AI Healthcare App
+- Peta Website Replica
 
-3. Build for production:
+## About Me
 
-```
-npm run build
-```
+I’m Antara Palwankar, a CSE student exploring frontend development, UI/UX design, and modern web technologies. I enjoy building responsive and interactive websites while continuously improving my coding and design skills.
 
-## Notes
+## How to Run the Project
 
-- Project created with Vite. Open `index.html` or run the dev server to view locally.
-- If pushing to GitHub, ensure you have permission for the target repository.
+1. Clone the repository
 
----
+bash git clone your-repository-link 
 
-Repository: https://github.com/Antaraaaa14/Portfolio
+2. Install dependencies
+
+bash npm install 
+
+3. Start the development server
+
+bash npm run dev 
+
+## Contact
+
+Email: 2025.antaray@isu.ac.in
+
+GitHub: https://github.com/Antaraaaa14
+
+LinkedIn: www.linkedin.com/in/antara-palwankar-406214385
+
+<img width="1470" height="874" alt="image" src="https://github.com/user-attachments/assets/f135384b-9f97-4e44-82ce-ba5c9af9285b" />
+<img width="1470" height="874" alt="image" src="https://github.com/user-attachments/assets/f053fe87-179c-486a-8e56-0e7383ac904a" />
+<img width="1470" height="874" alt="image" src="https://github.com/user-attachments/assets/ee6371d0-4b43-412a-b52a-ff57caeaf755" />
+<img width="1470" height="874" alt="image" src="https://github.com/user-attachments/assets/1df1ecb3-9aab-4f1b-ad3c-3cff11dff2c4" />
+<img width="1470" height="874" alt="image" src="https://github.com/user-attachments/assets/1a6a812a-df82-4d53-8d93-c819fb7c7cfa" />
+
+
+
+
+
